@@ -25,6 +25,7 @@ window.addEventListener("scroll", () => {
     page++;
     getDataFromServer();
   }
+//   giidads
 });
 
 getDataFromServer();
